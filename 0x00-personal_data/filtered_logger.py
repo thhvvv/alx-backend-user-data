@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Write a function called filter_datum that returns the log message obfuscated- filters call logs"""
+"""Write a function called filter_datum that returns the log message obfuscated- filters call logs, also changed password"""
 
 import logging
 import os
